@@ -1,4 +1,4 @@
-# Bảng A và phiếu tự kiểm
+# Day 13 Lab — 2A202604059 - Lê Quang Vinh
 
 Thư mục này chứa hai file do lệnh sinh ra, được commit vào repo của bạn:
 
